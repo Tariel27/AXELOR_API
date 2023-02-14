@@ -145,18 +145,6 @@
   "total": 2,
   "data": [
     {
-      "id": 2,
-      "version": 1,
-      "statusSelect": 3,
-      "$t:arrivalLocation.name": "МПТП ТОРУГАРТ",
-      "arrivalLocation.name": "MPTP TORUGART",
-      "piType": 2,
-      "registrationNumberPreliminaryInformation": "",
-      "createdOn": "2023-02-14T10:29:27Z",
-      "piCreateDate": "2023-02-14T10:29:44Z",
-      "$wkfStatus": null
-    },
-    {
       "id": 1,
       "version": 1,
       "statusSelect": 1,
