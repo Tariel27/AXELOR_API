@@ -25,5 +25,5 @@
 - Records from DataBase
   * [Select records](docs/record/Select.md)
   * [Delete records](docs/record/Delete.md)
-  * [Edit, Save, Update records](docs/record/OtherFunctional.md)
+  * [Read, Save, Update records](docs/record/OtherFunctional.md)
 - 
