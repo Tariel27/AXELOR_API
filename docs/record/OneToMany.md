@@ -26,6 +26,20 @@
         "consignee": {
           "id": 16
         }
+      },
+      {
+        "goodsMeasureTotalGrossMassMeasure": "3242",
+        "companyExTaxTotal": "0.00",
+        "consignee": {
+          "id": 16
+        }
+      },
+      {
+        "goodsMeasureTotalGrossMassMeasure": "3242",
+        "companyExTaxTotal": "0.00",
+        "consignee": {
+          "id": 16
+        }
       }
     ]
   }
@@ -73,7 +87,15 @@
       "piCreateDate": null,
       "declarationLineList": [
         {
-          "id": 3,
+          "id": 4,
+          "$version": 0
+        },
+        {
+          "id": 5,
+          "$version": 0
+        },
+        {
+          "id": 6,
           "$version": 0
         }
       ],
@@ -175,7 +197,7 @@
       "statusMinTransView": 2,
       "deliveryAddress": null,
       "railwayStationCalendarStamp": null,
-      "id": 41,
+      "id": 42,
       "companyCostTotal": "0",
       "attrs": null,
       "salespersonUserFito": null,
@@ -188,7 +210,7 @@
       "otherPersonText": null,
       "numberOfPeriods": 1,
       "contractPeriodInMonths": 0,
-      "createdOn": "2023-02-20T11:20:47.614Z",
+      "createdOn": "2023-02-20T11:23:20.328Z",
       "statusGts": 0,
       "publicMinTrans": false,
       "statusFito": 0,
