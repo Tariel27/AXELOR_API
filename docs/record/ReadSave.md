@@ -4,14 +4,14 @@
 
 ## Read
 
-> POST http://172.104.142.164:8080/sanarip-tamga/ws/rest/:model/:id/fetch
+> POST || PUT http://172.104.142.164:8080/sanarip-tamga/ws/rest/:model/:id/fetch
 
 Запрос который считает данные из таблицы.  
 Все нужные поля, нужно просто прописать в теле запроса в поле field   
 Ниже есть пример который возвращаеть данные всех полей.
 
 Пример
-> POST http://172.104.142.164:8080/sanarip-tamga/ws/rest/com.axelor.apps.sale.db.Declaration/1/fetch
+> POST || PUT http://172.104.142.164:8080/sanarip-tamga/ws/rest/com.axelor.apps.sale.db.Declaration/1/fetch
 
 `Тело запроса:`
 
@@ -209,7 +209,7 @@ ___
 
 ## Save
 
-> POST http://172.104.142.164:8080/sanarip-tamga/ws/rest/:model
+> POST || PUT http://172.104.142.164:8080/sanarip-tamga/ws/rest/:model
 
 #### Для создания пустого ПИ нужно всего лишь заполнить обяз. поля
 
@@ -475,7 +475,7 @@ ___
 
 Пример
 
-> POST http://172.104.142.164:8080/sanarip-tamga/ws/rest/com.axelor.apps.sale.db.Declaration
+> POST || PUT http://172.104.142.164:8080/sanarip-tamga/ws/rest/com.axelor.apps.sale.db.Declaration
 
 `Тело запроса:`
 

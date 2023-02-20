@@ -27,4 +27,4 @@
   * [Delete records](docs/record/Delete.md)
   * [Read, Save records](docs/record/ReadSave.md)
   * [Update records](docs/record/Update.md)
-- 
+  - [Selection](docs/record/Selection.md)

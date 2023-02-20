@@ -42,7 +42,7 @@
 * ### 401 Unauthorized
 ```text
 Response header: 
-JSESSIONID=E245E1BC01B497A861CE0F656990C28D; Path=/axelor-sanarip-tamga-6.3.0; HttpOnly;
+    JSESSIONID=E245E1BC01B497A861CE0F656990C28D; Path=/axelor-sanarip-tamga-6.3.0; HttpOnly;
 
 Возвращает html
 ```
