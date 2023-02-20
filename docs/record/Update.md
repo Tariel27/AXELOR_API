@@ -17,7 +17,7 @@
 ```json
 {
   "data": {
-    "version": 0,
+    "version": 1,
     "piType": 1,
     "creationDate": "2022-01-01",
     "company": {
