@@ -159,3 +159,29 @@
   ]
 }
 ```
+
+
+
+# 2 для юзеров
+createdBy - это юзер
+```json
+{
+  "offset": 0,
+  "limit": 10,
+  "fields": [
+    "registrationNumberPreliminaryInformation",
+    "statusSelect",
+    "arrivalLocation.name",
+    "piType",
+    "createdOn",
+    "piCreateDate"
+  ],
+  "sortBy": ["-createdOn"],
+  "data": {
+    "_domain": "self.createdBy.id = 1",
+    "_domainContext": {
+      "type": "1"
+    }
+  }
+}
+```
