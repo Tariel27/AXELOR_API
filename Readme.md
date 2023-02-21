@@ -31,3 +31,4 @@
 
 * [One to Many](docs/record/OneToMany.md)
 * [Translation json](docs/record/Translation.md)
+* [Цели](docs/record/Targets.md)
